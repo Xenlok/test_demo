@@ -1,0 +1,17 @@
+ul {
+    font-size: 18px;
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: column;
+} 
+#contacto {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+li {
+    padding: 5px;
+}
+a > header {
+    text-decoration: none;
+}
